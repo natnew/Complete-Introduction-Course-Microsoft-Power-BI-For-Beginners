@@ -28,6 +28,7 @@ And much more!
 * Data enthusiasts who want to understand how to create customized visuals within Power BI
 
 ## Contents
+[Articles Here](https://medium.com/@natashanewbold) <br>
 
 Note: More content will be added in the future! <br>
 **Get in touch for instructions on how you can receive your certificate.** <br>
